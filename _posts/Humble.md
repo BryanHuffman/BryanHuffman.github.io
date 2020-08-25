@@ -3,6 +3,7 @@ layout: post
 title: Post Test
 subtitle: My Thoughts
 tags: [Data 150]
+date: 2020-08-25
 ---
 
 Text Here
