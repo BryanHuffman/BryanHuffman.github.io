@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Breaking Things
-subtitle: Response
+subtitle: A Response
 tags: [Data 150]
 
 ---
@@ -17,4 +17,4 @@ A soulful notion of success rests on the actualization of our innate image. Succ
 ## References
 
 1. Blumenstock, Joshua. "Don't forget people in the use of big Data." *nature*,   
-  10 Sep. 2018, [Link](https://www.nature.com/articles/d41586-018-06215-5)
+      10 Sep. 2018, [link](https://www.nature.com/articles/d41586-018-06215-5)
