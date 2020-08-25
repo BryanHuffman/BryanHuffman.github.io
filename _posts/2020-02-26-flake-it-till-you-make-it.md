@@ -1,11 +1,12 @@
 ---
 layout: post
 title: Breaking Things
-subtitle: My thoughts on this [article](https://www.nature.com/articles/d41586-018-06215-5).
+subtitle: test.
 cover-img: /assets/img/path.jpg
 thumbnail-img: /assets/img/thumb.png
 share-img: /assets/img/path.jpg
 tags: [books, test]
+absolute_url: https://www.nature.com/articles/d41586-018-06215-5
 
 ---
 
