@@ -6,4 +6,5 @@ h2 {
 }
 ul {
   list-style-position: inside;
+  text-align: left;
 }
