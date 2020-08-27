@@ -5,5 +5,5 @@ h2 {
   padding: 20px;
 }
 li {
-  display: inline-block;
+  list-style-position: inside;
 }
