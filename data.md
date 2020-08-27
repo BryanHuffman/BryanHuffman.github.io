@@ -4,7 +4,7 @@ title: Data-150
 subtitle: An index of all class material
 ---
 
-## Responses
+->## Responses
 
 * [Week 1](https://bryanhuffman.github.io/2020-08-25-humble/)
 * Week 2
@@ -17,4 +17,4 @@ subtitle: An index of all class material
 * 1.4 Assignment 4a
 * 1.5 Assignment 4b
 
-## Projects
+## Projects<-
