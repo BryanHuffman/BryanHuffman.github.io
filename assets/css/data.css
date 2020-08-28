@@ -2,11 +2,13 @@
   align: center;
   width: 600px
   padding: 2em;
+  background: #f1f1f1;
 }
 .listF {
   align: center;
   width: 600px;
   padding: 2em;
+  background: #dddddd;
 }
 h2 {
   text-align: center;
