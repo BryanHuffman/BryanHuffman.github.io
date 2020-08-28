@@ -1,14 +1,6 @@
-.listR {
-  align: center;
-  width: 600px
-  padding: 2em;
-  background: #f1f1f1;
-}
-.listF {
-  align: center;
-  width: 600px;
-  padding: 2em;
+div {
   background: #dddddd;
+  text-align: center;
 }
 h2 {
   text-align: center;
