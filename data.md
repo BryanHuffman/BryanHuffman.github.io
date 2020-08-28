@@ -11,10 +11,10 @@ subtitle: An index of all class material
    
 ## Formal Writing
 
-    * 1.1 Assignment 1
-    * 1.2 Assignment 2
-    * 1.3 Assignment 3
-    * 1.4 Assignment 4a
-    * 1.5 Assignment 4b
-
+   * 1.1 Assignment 1
+   * 1.2 Assignment 2
+   * 1.3 Assignment 3
+   * 1.4 Assignment 4a
+   * 1.5 Assignment 4b
+   
 ## Projects
