@@ -7,7 +7,7 @@ css: assets/css/data.css
 
 ## Responses
 
-<div>
+<div class = "listR">
    <ul>
       <li><a href = "https://bryanhuffman.github.io/2020-08-25-humble/">Week 1</a>
       <li>Week 2
@@ -16,7 +16,7 @@ css: assets/css/data.css
 
 ## Formal Writing
 
-<div>
+<div class = "listF">
   <ul>
     <li>1.1 Assignment 1
     <li>1.2 Assignment 2
