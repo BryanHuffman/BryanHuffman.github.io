@@ -9,10 +9,10 @@ css: assets/css/data.css
 
 <div class = "response">
    <ul>
-      <li><a href = "https://bryanhuffman.github.io/2020-08-25-humble/">Response 1</a>
+      <li><a href = "https://bryanhuffman.github.io/2020-08-25-humble/">Week 1</a>
       <li>Week 2
    </ul>
-</div>
+</div
 
 ## Formal Writing
 
