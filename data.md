@@ -2,7 +2,7 @@
 layout: page
 title: Data-150
 subtitle: An index of all class material
-css: /assets/css/data
+css: /assets/css/data.css
 ---
 
 ## Responses
