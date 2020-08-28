@@ -12,12 +12,14 @@ css: assets/css/data.css
 
 ## Formal Writing
 
-<div class = "container">
-* 1.1 Assignment 1
-* 1.2 Assignment 2
-* 1.3 Assignment 3
-* 1.4 Assignment 4a
-* 1.5 Assignment 4b
+<div class = "writing">
+  <ul>
+    <li>1.1 Assignment 1
+    <li>1.2 Assignment 2
+    <li>1.3 Assignment 3
+    <li>1.4 Assignment 4a
+    <li>1.5 Assignment 4b
+    </ul>
   </div>
 
 ## Projects
