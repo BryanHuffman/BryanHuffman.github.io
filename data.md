@@ -9,8 +9,8 @@ css: assets/css/data.css
 
 <div class = "listR">
    <ul>
-      <li><a href = "https://bryanhuffman.github.io/2020-08-25-humble/">Week 1</a>
-      <li>Week 2
+      <li><a href = "https://bryanhuffman.github.io/2020-08-25-humble/">Week 1</a></li>
+      <li>Week 2</li>
    </ul>
 </div>
 
@@ -18,11 +18,11 @@ css: assets/css/data.css
 
 <div class = "listF">
   <ul>
-    <li>1.1 Assignment 1
-    <li>1.2 Assignment 2
-    <li>1.3 Assignment 3
-    <li>1.4 Assignment 4a
-    <li>1.5 Assignment 4b
+    <li>1.1 Assignment 1</li>
+    <li>1.2 Assignment 2</li>
+    <li>1.3 Assignment 3</li>
+    <li>1.4 Assignment 4a</li>
+    <li>1.5 Assignment 4b</li>
    </ul>
  </div>
 
