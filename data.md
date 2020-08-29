@@ -23,3 +23,7 @@ math_enging_options: {}
    * 1.5 Assignment 4b
    
 ## Projects
+
+katex.render("c = \\pm\\sqrt{a^2 + b^2}", element, {
+    throwOnError: false
+});
