@@ -5,6 +5,9 @@ subtitle: An index of all class material
 css: /assets/css/data.css
 ---
 
+kramdown:
+  html_to_native: true
+
 ## Responses
 
    * [Week 1](https://bryanhuffman.github.io/2020-08-25-humble/)
