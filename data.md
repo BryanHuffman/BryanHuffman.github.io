@@ -5,10 +5,9 @@ subtitle: An index of all class material
 css: /assets/css/data.css
 kramdown:
 html_to_native: true
----
-
 math_engine: katex
 math_enging_options: {}
+---
 
 ## Responses
 
