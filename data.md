@@ -7,6 +7,9 @@ kramdown:
 html_to_native: true
 ---
 
+math_engine: katex
+math_enging_options: {}
+
 ## Responses
 
    * [Week 1](https://bryanhuffman.github.io/2020-08-25-humble/)
