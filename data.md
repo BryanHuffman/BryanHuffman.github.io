@@ -7,15 +7,16 @@ css: /assets/css/data.css
 
 ## Responses
 
-   * [Week 1](https://bryanhuffman.github.io/2020-08-25-humble/)
-   * Week 2
-
+   * [Week 1](https://bryanhuffman.github.io/2020-08-25-One/)
+   * [Week 3](https://bryanhuffman.github.io/2020-08-25-AS/)
+   * [Week 5](https://bryanhuffman.github.io/2020-08-25-Two/)
+   * [Week 9](https://bryanhuffman.github.io/2020-08-25-OB/)
 ## Formal Writing
 
-   * [1.1 Assignment 1](https://bryanhuffman.github.io/2020-10-08-anoBio/)
-   * 1.2 Assignment 2
-   * 1.3 Assignment 3
-   * 1.4 Assignment 4a
-   * 1.5 Assignment 4b
+   * [Assignment 1](https://bryanhuffman.github.io/2020-10-08-anoBio/)
+   * [Assignment 2](https://bryanhuffman.github.io/2020-10-08-litRev/)
+   * [Assignment 3](https://bryanhuffman.github.io/2020-10-08-Intro/)
+   * Assignment 4
+   * Assignment 5
 
 ## Projects
