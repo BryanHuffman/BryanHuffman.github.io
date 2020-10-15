@@ -1,6 +1,6 @@
 ---
 layout: page
-title: SOCL304-01
+title: SOCL-304
 subtitle: A record of work.
 css: /assets/css/data.css
 ---

@@ -14,8 +14,8 @@ css: /assets/css/data.css
 ## Formal Writing
 
    * [Assignment 1](https://bryanhuffman.github.io/2020-10-08-anoBio/)
-   * [Assignment 2](https://bryanhuffman.github.io/2020-10-15-litRev/)
-   * [Assignment 3](https://bryanhuffman.github.io/2020-10-15-Intro/)
+   * [Assignment 2](https://bryanhuffman.github.io/2020-10-08-litRev/)
+   * [Assignment 3](https://bryanhuffman.github.io/2020-10-08-Intro/)
    * Assignment 4
    * Assignment 5
 
